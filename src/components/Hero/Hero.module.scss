@@ -1,0 +1,21 @@
+.contacts {
+    display:flex;
+    justify-content: center;
+    gap: 36px;
+    list-style: none;
+}
+.name {
+    font-size: 78px;
+    text-transform: uppercase;
+    margin-bottom: 48px;
+}
+.subtitle {
+    font-size: 56px;
+    text-transform: uppercase;
+}
+.heroContainer {
+    margin: 0 auto 86px;
+    padding: 36px 36px 56px;
+    border: 6px solid black;
+    border-radius: 24px;
+}

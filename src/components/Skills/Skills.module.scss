@@ -1,0 +1,25 @@
+.subtitle {
+    font-size: 56px;
+    text-transform: uppercase;
+    margin-bottom: 48px;
+}
+.skillsList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    width: 360px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 0 auto;
+}
+.skillItem {
+    border-radius: 50%;
+    background-color: black;
+    padding: 24px 24px 16px;
+}
+.skillLi {
+    padding: 8px;
+    border: 6px solid black;
+    border-radius: 50%;
+}
