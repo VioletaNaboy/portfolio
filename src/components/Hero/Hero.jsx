@@ -6,7 +6,7 @@ import styles from './Hero.module.scss'
 
 export const Hero = () => {
     return (
-    <section>
+    <section id='hero'>
         <div className={styles.heroContainer}>   
             <h1 className={styles.name}>Violeta Naboishchykova</h1> 
             <h2 className={styles.subtitle}>Full stack developer</h2>    

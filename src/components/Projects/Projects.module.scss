@@ -1,0 +1,28 @@
+.slider {
+    display: flex;
+    gap: 48px;
+    height: 420px;
+}
+.sliderBtn {
+    border: none;
+    background-color: transparent;
+    width: 48px;
+}
+.project {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+}
+.projectImg {
+    border-radius: 34px;
+}
+.projectName {
+color:#00008B;
+font-size: 34px;
+}
+.projectDesc {
+    font-size: 18px;
+    text-align: start;
+}
+
